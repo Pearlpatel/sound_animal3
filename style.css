@@ -1,0 +1,51 @@
+body{
+    background-color:#92F48A;
+}
+#head{
+    font-family: 'Cinzel', serif;
+     color: black;
+}
+p{
+font-family: 'Amatic SC', cursive;
+    color: black;
+    font-size: large;
+}
+#start{
+    background-color:palevioletred;
+    font-size: large;
+    font-weight: 500;
+    color: black;
+    border-color: black;
+    padding: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#main_div{
+    margin-top: 30px;
+   background-color:pink;
+   padding-top: 30px;
+   padding-bottom: 40px;
+   height: 70%;
+
+   }
+   #footer{
+    position: fixed;
+    bottom: 5%;
+    text-align: center;
+    width: 100%;
+    font-size: large;
+    font-weight: 500;
+    color: black;
+    font-family: 'Cinzel', serif;
+}
+h3{
+ font-family: 'Amatic SC', cursive;
+color: black;
+font-size: x-large;
+margin: 15px;
+}
+#animal_img{
+   margin-top: 5px;
+   margin-bottom: 10px;
+    width: 240px;
+    height:240px;
+}
